@@ -1,4 +1,4 @@
-## Hi there, I am Livia! 👾 ![kittyfish]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://tenor.com/e3g9Hyc8QTO.gif))
+## Hi there, I am Livia! 👾 ![kittyfish](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://tenor.com/e3g9Hyc8QTO.gif)
 
 <!--
 **LiviaRec/LiviaRec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
