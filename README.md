@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
 <!--
 **LiviaRec/LiviaRec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
