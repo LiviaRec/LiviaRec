@@ -1,6 +1,7 @@
-## Hi there, I am Livia! 👾 ![kittyfish](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://tenor.com/e3g9Hyc8QTO.gif)
+## Hi there, I am Livia! 👾 ![kittyfish](https://tenor.com/view/water-cat-ai-catfish-puffercat-gif-4103263979081323190)
 
 <!--
+@This is my personal site
 **LiviaRec/LiviaRec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
