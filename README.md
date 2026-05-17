@@ -12,9 +12,10 @@
 
 🧙🏻‍♀️ Currently working on something cool. 
 
-![raven book](https://i.pinimg.com/originals/15/1b/1f/151b1f58c3fc5b677dad4f5c25c8385e.gif)
 
 <!--
+![raven book](https://i.pinimg.com/originals/15/1b/1f/151b1f58c3fc5b677dad4f5c25c8385e.gif)
+
 @This is my personal site
 **LiviaRec/LiviaRec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
