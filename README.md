@@ -1,4 +1,4 @@
-## Hi there, I am Livia! 👾 ![kittyfish](https://tenor.com/view/water-cat-ai-catfish-puffercat-gif-4103263979081323190)
+## Hi there, I am Livia! 👾 ![kittyfish](https://media.tenor.com/y338RorW38gAAAAM/water-cat-ai.gif)
 
 <!--
 @This is my personal site
