@@ -2,6 +2,17 @@
 
 ![kitty fish](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjMwejR2MHo5Ymc5c201N2xiZHEzaWh5czNiMzA3cm5penJrMmV3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/avpOSVM1tvQ5ChUfXu/giphy.gif)
 
+## About me 👁
+
+💻 I am a Computer Science and Engineering Student 
+
+🔮 I love learning new technologies. 
+
+🧙🏻‍♀️ Currently working on something cool. 
+
+🌱 I’m currently learning
+
+
 
 <!--
 @This is my personal site
