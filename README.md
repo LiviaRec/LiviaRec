@@ -1,4 +1,4 @@
-## Hi there, I am Livia! 👾  <img src="https://i.pinimg.com/736x/78/b8/bb/78b8bb5de6089f7809e0e6bbfee60778.jpg" alt="raven" width="30"/>
+## Hi there, I am Livia! 👾  <img src="https://i1-c.pinimg.com/736x/85/a5/96/85a5964603da2a84bffe3d0659099fd7.jpg" alt="sailormoon" width="30"/>
 
 ![kitty fish](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjMwejR2MHo5Ymc5c201N2xiZHEzaWh5czNiMzA3cm5penJrMmV3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/avpOSVM1tvQ5ChUfXu/giphy.gif)
 
@@ -11,6 +11,8 @@
 🌱 I’m currently learning Data Structures, Web, and UE5
 
 🧙🏻‍♀️ Currently working on something cool. 
+
+![raven book](https://i.pinimg.com/originals/15/1b/1f/151b1f58c3fc5b677dad4f5c25c8385e.gif)
 
 <!--
 @This is my personal site
