@@ -5,8 +5,11 @@
 ## About me 👁
 
 💻 I am a Computer Science and Engineering Student.
+
 🔮 I love learning new technologies. 
+
 🌱 I’m currently learning Data Structures, Web, and UE5
+
 🧙🏻‍♀️ Currently working on something cool. 
 
 <!--
