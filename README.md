@@ -1,4 +1,4 @@
-## Hi there, I am Livia! 👾  
+## Hi there, I am Livia! ![jelly](https://files.catbox.moe/8voap3.gif)
 
 ![kitty fish](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjMwejR2MHo5Ymc5c201N2xiZHEzaWh5czNiMzA3cm5penJrMmV3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/avpOSVM1tvQ5ChUfXu/giphy.gif)
 
@@ -15,6 +15,7 @@
 
 <!--
 ![raven book](https://i.pinimg.com/originals/15/1b/1f/151b1f58c3fc5b677dad4f5c25c8385e.gif)
+![jelly](https://files.catbox.moe/8voap3.gif)
 
 @This is my personal site
 **LiviaRec/LiviaRec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
