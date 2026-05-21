@@ -6,7 +6,7 @@
 
 <img src="https://i.imgur.com/DKozICT.gif" alt="catcomp" width="20"/> I am a Computer Science and Engineering Student.
 
-<img src="https://i.imgur.com/fwbvbbB.gif" alt="cd" width="20"/> I love learning new technologies. 
+<img src="https://i.imgur.com/sWUJGaP.gif" alt="kitty" width="20"/> I love learning new technologies. 
 
 <img src="https://i.imgur.com/jFNPvSG.gif" alt="plant" width="20"/> I’m currently learning Data Structures, Web, and UE5
 
