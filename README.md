@@ -1,8 +1,8 @@
-## Hi there, I am Livia! <img src="https://files.catbox.moe/8voap3.gif" alt="jelly" width="30"/>
+## Hi there, I am Livia! <img src="https://files.catbox.moe/8voap3.gif" alt="jelly" width="25"/>
 
 ![kitty fish](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjMwejR2MHo5Ymc5c201N2xiZHEzaWh5czNiMzA3cm5penJrMmV3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/avpOSVM1tvQ5ChUfXu/giphy.gif)
 
-## About me <img src="https://i.imgur.com/Z9l6CkM.gif" alt="starry" width="30"/>
+## About me <img src="https://i.imgur.com/Z9l6CkM.gif" alt="starry" width="25"/>
 
 💻 I am a Computer Science and Engineering Student.
 
