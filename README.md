@@ -4,13 +4,15 @@
 
 ## About me <img src="https://i.imgur.com/Z9l6CkM.gif" alt="starry" width="25"/>
 
-💻 I am a Computer Science and Engineering Student.
+<img src="https://i.imgur.com/DKozICT.gif" alt="catcomp" width="20"/> I am a Computer Science and Engineering Student.
 
-🔮 I love learning new technologies. 
+<img src="https://i.imgur.com/fwbvbbB.gif" alt="cd" width="20"/> I love learning new technologies. 
 
-🌱 I’m currently learning Data Structures, Web, and UE5
+<img src="https://i.imgur.com/jFNPvSG.gif" alt="plant" width="20"/> I’m currently learning Data Structures, Web, and UE5
 
-🧙🏻‍♀️ Currently working on something cool. 
+<img src="https://i.imgur.com/jZU2gOa.gif" alt="roundy" width="20"/> Currently working on something cool. 
+
+<img src="https://i.imgur.com/EjehTUH.gif" alt="squirtle" width="25"/> 
 
 
 <!--
